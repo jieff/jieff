@@ -7,11 +7,45 @@
 </p>
 
 <p align="left">
-  Linguagens: <strong>Delphi, Php, Python, React Native</strong>
+  <h1>Skills:</h1>
+  
+  <a href="#">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+
+  <a href="#">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
+  
+  <a href="#">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+  
+  <a href="#">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
+  
+  
+  	
 </p>
 
 <p align="left">
-  Ferramentas: <strong>Docker, Vscode, Cloud </strong>
+  
+   <a href="#">
+  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" /></a>
+  
+  <a href="#">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  
+  <a href="#">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  
+  <a href="#">
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /></a>
+  
+  <a href="#">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+ <h1></h1>	
+  
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieff&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/jieff/github-readme-stats)
