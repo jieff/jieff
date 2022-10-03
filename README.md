@@ -4,7 +4,7 @@
   Olá eu sou <strong>Jieff Cavalcanti</strong>, atualmente trabalho na empresa <strong>Ksys Sistemas</strong> como
   desenvolvedor <strong>Fullstack</strong>.
   
-  Estou no programa <strong>+devs2blu2022</strong>
+  Estou no programa <strong>+devs2blu2022</strong> | Delphi FURB
  
 </p>
 
