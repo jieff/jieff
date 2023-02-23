@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá eu sou <strong>Jieff Cavalcanti</strong>, atualmente trabalho na empresa <strong>Ksys Sistemas</strong> como
-  desenvolvedor <strong>Fullstack</strong>.
+  Olá eu sou <strong>Jieff Cavalcanti</strong>, atualmente trabalho na empresa <strong>Ksys Sistemas</strong>  e <strong>Tnp Brasil </strong> como
+  <strong> desenvolvedor </strong>.
   
   Estou no programa <strong>+devs2blu2022</strong> | Delphi FURB
  
