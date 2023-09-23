@@ -3,8 +3,6 @@
 <p align="left"> 
   Olá eu sou <strong>Jieff Cavalcanti</strong>, atualmente trabalho na empresa <strong>Ksys Sistemas</strong>  e <strong>Tnp Brasil </strong> como
   <strong> desenvolvedor </strong>.
-  
-  Estou no programa <strong>+devs2blu2022</strong> | Delphi FURB
  
 </p>
 
