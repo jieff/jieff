@@ -1,10 +1,22 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Olá eu sou <strong>Jieff Cavalcanti</strong>, atualmente trabalho na empresa <strong>Ksys Sistemas</strong>  e <strong>Tnp Brasil </strong> como
-  <strong> desenvolvedor </strong>.
- 
+<p align="left">
+  👋 Olá, eu sou <strong>Jieff Cavalcanti</strong>
 </p>
+
+<p align="left">
+  🧠 <strong>Analista de Sistemas</strong> e <strong>Desenvolvedor</strong> com forte atuação em produtos digitais e soluções escaláveis.
+</p>
+
+<p align="left">
+  Fundador das empresas
+  <strong>Flux</strong>, <strong>Mobi</strong> e <strong>Gold</strong>.
+</p>
+
+<p align="left">
+  ⚙️ Atuo no desenvolvimento de sistemas web, integrações de APIs, automações e arquitetura de software focada em performance e crescimento.
+</p>
+
 
 <p align="left">
   <h1>Skills:</h1>
