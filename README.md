@@ -1,202 +1,166 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<div align="center">
 
-<p align="left">
-  👋 Olá, eu sou <strong>Jieff Cavalcanti</strong>
-</p>
+# Olá, eu sou Jieff Cavalcanti 👋
 
-<p align="left">
-  🧠 <strong>Analista de Sistemas</strong> e <strong>Desenvolvedor de Software</strong>
-  com experiência no desenvolvimento de produtos digitais, sistemas web e soluções escaláveis.
-</p>
+### Fundador da Flux • Analista de Sistemas • Desenvolvedor de Software
 
-<p align="left">
-  ⚙️ Atuo na criação de sistemas, APIs, integrações, automações e arquiteturas
-  de software, conectando tecnologia e necessidades de negócio.
-</p>
+Transformo desafios de negócio em produtos digitais, automações e sistemas preparados para crescer.
 
-<p align="left">
-  🚀 Tenho foco em desenvolvimento de soluções modernas, performáticas e
-  preparadas para evolução e escala.
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jieff_Cavalcanti-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jieff/)
+[![E-mail](https://img.shields.io/badge/E--mail-Fale_comigo-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jieff.cavalcanti@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat-square\&logo=whatsapp\&logoColor=white)](https://api.whatsapp.com/send?phone=5547974002478)
 
-<p align="left">
-  🤖 Também trabalho com <strong>Inteligência Artificial</strong>, automação de processos
-  e integração de agentes inteligentes em produtos e operações.
-</p>
+</div>
 
 ---
 
-<h2>🛠️ Skills</h2>
+## Sobre mim
 
-<h3>💻 Desenvolvimento</h3>
+Sou fundador da **Flux Soluções Digitais**, empresa focada no desenvolvimento de software, automação de processos e criação de produtos digitais.
 
-<p align="left">
+Atuo desde a compreensão do problema até a arquitetura e implementação da solução, conectando tecnologia, operação e objetivos de negócio.
 
-<a href="#">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</a>
+Tenho experiência com:
 
-<a href="#">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</a>
+* Desenvolvimento de aplicações web e mobile
+* Arquitetura e construção de APIs
+* Produtos SaaS e plataformas de gestão
+* Integrações entre sistemas e serviços externos
+* Automação de processos empresariais
+* Inteligência Artificial e agentes inteligentes
+* Infraestrutura, bancos de dados e implantação em nuvem
 
-<a href="#">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</a>
-
-</p>
-
-<h3>🗄️ Banco de Dados</h3>
-
-<p align="left">
-
-<a href="#">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-</a>
-
-</p>
-
-<h3>☁️ Infraestrutura & DevOps</h3>
-
-<p align="left">
-
-<a href="#">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
-<h3>🔄 Arquitetura & Integrações</h3>
-
-<p align="left">
-
-<a href="#">
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-</a>
-
-</p>
+Meu objetivo é construir soluções que não sejam apenas tecnicamente bem desenvolvidas, mas que também gerem eficiência, organização e resultados reais para as empresas.
 
 ---
 
-<h2>🧠 Engenharia de Software</h2>
+## Produtos e projetos
 
-<p align="left">
-  Arquitetura de Software • Clean Architecture • SOLID • Design Patterns
-  • APIs REST • Microsserviços • Mensageria • Integrações • Docker
-  • CI/CD • Cloud • Automação de Processos
-</p>
+### NR Nexus
 
----
+Plataforma SaaS voltada para engenheiros que realizam inspeções conforme a **NR-13**.
 
-<h2>🤖 Inteligência Artificial</h2>
+A solução centraliza o cadastro de empresas, equipamentos, inspeções e emissão de laudos técnicos, permitindo acompanhar toda a operação em um único ambiente.
 
-<p align="left">
-  Exploro a aplicação de <strong>Inteligência Artificial</strong> no desenvolvimento
-  de software e na automação de processos, incluindo agentes de IA,
-  assistentes inteligentes, integrações com APIs e soluções orientadas
-  à eficiência operacional.
-</p>
+**Principais recursos:**
 
----
+* Gestão de clientes e equipamentos
+* Inspeções de vasos de pressão e caldeiras
+* Checklists, medições e registro de anomalias
+* Emissão de laudos técnicos
+* Acompanhamento do andamento das inspeções
+* Fluxos comerciais, demonstrações e período de teste
 
-<h2>📊 GitHub</h2>
+### Flux Pet
 
-<p align="center">
+Sistema de gestão desenvolvido para apoiar a operação de pet shops.
 
-<a href="https://github.com/jieff">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jieff&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180em"
-  />
-</a>
+O projeto reúne vendas, estoque, controle financeiro e indicadores importantes para a tomada de decisão.
 
-<a href="https://github.com/jieff">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jieff&layout=compact&theme=tokyonight&hide_border=true"
-    height="180em"
-  />
-</a>
+**Indicadores e recursos:**
 
-</p>
+* Faturamento e lucro
+* Margem por produto e categoria
+* CMV e custos operacionais
+* Controle de estoque
+* Ticket médio
+* Precificação e desempenho comercial
 
----
+### Flux Soluções Digitais
 
-<h2>📫 Contato</h2>
+Na Flux, desenvolvemos sistemas e automações sob medida para pequenas e médias empresas.
 
-<p align="left">
+Nossa atuação envolve:
 
-<a href="mailto:jieff.cavalcanti@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/jieff/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://api.whatsapp.com/send?phone=5547974002478">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-</p>
+* Sistemas web e aplicativos
+* Automação de processos
+* Integração entre CRM, ERP e APIs
+* Agentes de atendimento e vendas
+* Dashboards e métricas operacionais
+* Modernização de processos manuais
 
 ---
 
-<p align="center">
-  <i>Transformando ideias e necessidades de negócio em soluções de software.</i>
-</p>
+## Tecnologias
+
+<div align="center">
+
+### Desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,nextjs,react,python,php" alt="Tecnologias de desenvolvimento" />
+
+### Dados e infraestrutura
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,docker,linux,aws,nginx,git,github" alt="Banco de dados e infraestrutura" />
+
+</div>
+
+---
+
+## Engenharia de software
+
+```text
+Arquitetura de Software  •  APIs REST        •  Clean Architecture
+SOLID                    •  Design Patterns  •  Integrações
+Mensageria               •  Docker           •  CI/CD
+Cloud                    •  Bancos de Dados  •  Automação
+```
+
+Tenho atenção especial à organização do código, segurança, escalabilidade e facilidade de evolução dos produtos.
+
+---
+
+## Inteligência Artificial e automação
+
+Exploro a aplicação prática da Inteligência Artificial em produtos e operações empresariais.
+
+Meu trabalho nessa área inclui:
+
+* Agentes inteligentes para atendimento e vendas
+* Automação de processos operacionais
+* Integração com modelos de linguagem
+* Assistentes conectados a APIs e bancos de dados
+* Qualificação e acompanhamento automatizado de leads
+* Uso de IA no desenvolvimento de software
+
+Acredito que a IA gera mais valor quando está integrada aos processos reais da empresa e ajuda pessoas a tomarem decisões melhores.
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=jieff&show_icons=true&theme=transparent&hide_border=true&title_color=f97316&icon_color=f97316&text_color=8b949e&locale=pt-br"
+alt="Estatísticas do GitHub"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jieff&layout=compact&theme=transparent&hide_border=true&title_color=f97316&text_color=8b949e&locale=pt-br"
+alt="Linguagens mais utilizadas"
+/>
+
+</div>
+
+---
+
+## Vamos conversar?
+
+Se você quer desenvolver um produto digital, automatizar processos ou integrar sistemas, entre em contato comigo.
+
+<div align="center">
+
+[![E-mail](https://img.shields.io/badge/Enviar_um_e--mail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jieff.cavalcanti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jieff/)
+[![WhatsApp](https://img.shields.io/badge/Conversar_no_WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://api.whatsapp.com/send?phone=5547974002478)
+
+<br>
+
+**Flux Soluções Digitais**
+
+*Tecnologia conectada às necessidades reais do negócio.*
+
+</div>
