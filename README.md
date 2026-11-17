@@ -8,7 +8,7 @@ Transformo desafios de negócio em produtos digitais, automações e sistemas pr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jieff_Cavalcanti-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jieff/)
 [![E-mail](https://img.shields.io/badge/E--mail-Fale_comigo-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jieff.cavalcanti@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat-square\&logo=whatsapp\&logoColor=white)](https://api.whatsapp.com/send?phone=5547974002478)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat-square\&logo=whatsapp\&logoColor=white)](https://api.whatsapp.com/send?phone=5547988312654)
 
 </div>
 
