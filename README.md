@@ -16,7 +16,7 @@ Transformo desafios de negócio em produtos digitais, automações e sistemas pr
 
 ## Sobre mim
 
-Sou fundador da **Flux Soluções Digitais**, empresa focada no desenvolvimento de software, automação de processos e criação de produtos digitais.
+Fundador da **Flux Soluções Digitais**, empresa focada no desenvolvimento de software, automação de processos e criação de produtos digitais.
 
 Atuo desde a compreensão do problema até a arquitetura e implementação da solução, conectando tecnologia, operação e objetivos de negócio.
 
