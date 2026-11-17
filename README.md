@@ -155,7 +155,7 @@ Se você quer desenvolver um produto digital, automatizar processos ou integrar 
 
 [![E-mail](https://img.shields.io/badge/Enviar_um_e--mail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jieff.cavalcanti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jieff/)
-[![WhatsApp](https://img.shields.io/badge/Conversar_no_WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://api.whatsapp.com/send?phone=5547974002478)
+[![WhatsApp](https://img.shields.io/badge/Conversar_no_WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://api.whatsapp.com/send?phone=5547988312654)
 
 <br>
 
